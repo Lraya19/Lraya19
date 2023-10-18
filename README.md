@@ -2,38 +2,33 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Nessus Vulnerability Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SIEM - Using Azure Sentinel to Map Cyber Attacks](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Python - Develop an Algorithm](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Python - Import and Parse a Text File](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Python - Updating Files Through a Python Algorithm](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SQL - Apply Filters to SQL Queries](https://github.com/joshmadakor1/Algorithms-Practice) 
+  - [Linux - File Permissions in Linux](https://github.com/joshmadakor1/Algorithms-Practice)  
+<h2>👨‍💻 Certifications:</h2>
 
+  - [Google Cybersecurity Professional Certificate](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CompTIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [FEMA National Incident Management System (NIMS): ICS-100](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Qualys Vulnerability Management ](https://github.com/joshmadakor1/Algorithms-Practice)
 
+<h2>📺 Popular Blog Posts</h2>
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [The Role of Artificial Intelligence in Cybersecurity: Benefits and Risks](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Common Cyber Threats: What You Need To Know](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
 [medium]: https://medium.com/Lraya19
 [youtube]: https://www.youtube.com/c/joshmadakor
 [linkedin]: https://linkedin.com/in/@Lraya19
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
