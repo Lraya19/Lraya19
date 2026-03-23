@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lisandro! 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
   - [Nessus Vulnerability Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - [SIEM - Using Azure Sentinel to Map Cyber Attacks](https://github.com/joshmadakor1/Algorithms-Practice)
