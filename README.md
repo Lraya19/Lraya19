@@ -16,11 +16,6 @@
   - [FEMA National Incident Management System (NIMS): ICS-100](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Qualys Vulnerability Management ](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 Popular Blog Posts</h2>
-
-- [The Role of Artificial Intelligence in Cybersecurity: Benefits and Risks](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Common Cyber Threats: What You Need To Know](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
 
 <h2> 🤳 Connect with me:</h2>
 
