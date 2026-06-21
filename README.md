@@ -28,7 +28,6 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
 [medium]: https://medium.com/Lraya19
-[youtube]: https://www.youtube.com/c/joshmadakor
 [linkedin]: https://linkedin.com/in/@Lraya19
 
 
